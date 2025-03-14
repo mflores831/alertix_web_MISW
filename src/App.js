@@ -5,6 +5,7 @@ import PhoneNumberInput from "./screens/PhoneNumberInput"; // Nueva pantalla de 
 import FormSelection from "./screens/FormSelection"; // Nueva pantalla de selección de formato
 import CodeRegister from "./screens/CodeRegister"; // Nueva pantalla de ingreso de código
 import Welcome from "./screens/Welcome";
+import Statistics from "./screens/Statistics";
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/welcome" element={<Welcome />} />
+        <Route path="/statistics" element={<Statistics />} />
         <Route path="/ingreso-numero" element={<PhoneNumberInput />} />
         <Route path="/seleccion-forma" element={<FormSelection />} />
         <Route path="/ingreso-codigo" element={<CodeRegister />} />
