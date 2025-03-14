@@ -1,6 +1,17 @@
-# Alertix Web (MISW)
+# Alertix Web
 
-Este proyecto es una aplicación web desarrollada con **React** y **Material UI (MUI)**.
+## Integrantes:
+
+* Martín Flores Arango - r.floresa@uniandes.edu.co
+* Felipe Villalba Gil - g.villalbag@uniandes.edu.co
+
+Aplicación web desarrollada con React y MUI, con el fin de permitir la gestión de alertas y notificaciones de los usuarios.
+
+## Requisitos Previos
+
+- Node.js
+- VS Code
+- Git
 
 ## 🚀 Instalación y ejecución
 
