@@ -33,4 +33,19 @@ Esto abrirá la aplicación en tu navegador en **http://localhost:3000**.
 
 ---
 
+## 🖥️ Descripción de Screens
+
+### Funcionalidad de Login
+- **Screen Login**: Pantalla inicial, donde el usuario inicia sesión en el sistema Alertix.
+- **Screen PhoneNumberInput**: Permite el ingreso del número telefónico del usuario.
+- **Screen FormSelection**: Permite seleccionar la forma de envío del código (SMS, WhatsApp o llamada telefónica).
+- **Screen CodeRegister**: Permite registrar el código enviado en el paso anterior.
+- **Screen Welcome**: Pantalla de bienvenida que aparece al finalizar el proceso de login.
+
+### Funcionalidad de Estadísticas
+- **Screen Statistics**: Muestra estadísticas de uso de alarmas.
+- **Screen Feedback**: Muestra estadísticas relacionadas con el feedback de cumplimiento.
+
+---
+
 ✉️ **Contacto:** Si tienes preguntas o sugerencias, no dudes en contribuir o abrir un issue en el repositorio. ¡Gracias por tu interés en Alertix Web! 🚀
